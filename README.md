@@ -5,6 +5,6 @@
 	GridMDP.ipynb
 # 参考
 - [Pythonではじめる強化学習](https://qiita.com/Hironsan/items/56f6c0b2f4cfd28dd906)
+	- [pythonで強化学習を試す](http://tachiken0210.hatenablog.com/entry/2017/05/29/202445)
 - [aima-python <github>](https://github.com/aimacode/aima-python)
-- [Git の Commit Author と Commiter を変更する](https://qiita.com/sea_mountain/items/d70216a5bc16a88ed932)
-
+- [Git の Commit Author と Commiter を変更する](https://qiita.com/sea_mountain/items/d70216a5bc16a88ed932()
